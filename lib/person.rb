@@ -1,1 +1,4 @@
+def Person
+
+end
 
